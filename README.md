@@ -10,28 +10,28 @@
 ## หน้าตาเกม
 
 ## หน้า Home ของเกม
-![](/image/Home.png)
+<img src="image/Home.png" width="700" />
 
 ## หน้าเกม
-![](/image/Gamepage.png)
+<img src="image/Gamepage.png" width="700" />
 
 ## หน้าหยุดเกม
-![](/image/Gamestop.png)
+<img src="image/Gamestop.png" width="700" />
 
 ## หน้า Dead
-![](/image/Dead.png)
+<img src="image//Dead.png" width="700" />
 
 ## หน้าจบเกม
-![](/image/End_game.png)
+<img src="image/End_game.png" width="700" />
 
 ## หน้าแสดงคะแนน
-![](/image/Score_board.png)
+<img src="image/Score_board.png" width="700" />
 
 ## หน้า Free mode
-![](/image/Free_mode.png)
+<img src="image/Free_mode.png" width="700" />
 
 ## รีเซ็ตบล๊อค
-![](/image/Reset_block.png)
+<img src="image/Reset_block.png" width="700" />
 
 ## รีเซ็ตบอล
-![](/image/Reset_ball.png)
+<img src="image/Reset_ball.png" width="700" />
